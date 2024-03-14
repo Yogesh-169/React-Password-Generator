@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <img src="insert-your-screenshot-url-here" alt="Password Generator Screenshot" />
+ <h3>Password Generator Screenshot </h3>
 </div>
 
 ## 🚀 Features
