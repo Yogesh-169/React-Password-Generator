@@ -32,6 +32,7 @@
 ## 💻 Technologies Used
 
 - **React:** Frontend library for building user interfaces.
+- **JavaScript:** Programming language used for the logic of the application.
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 
 ## 🌟 Inspiration
