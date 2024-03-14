@@ -1,4 +1,4 @@
-<h1 align="center">Password Generator</h1>
+<h1 align="center">React Password Generator</h1>
 
 <div align="center">
   <strong>Generate secure passwords effortlessly!</strong>
@@ -8,10 +8,6 @@
 </div>
 
 <br />
-
-<div align="center">
- <h3>Password Generator Screenshot </h3>
-</div>
 
 ## 🚀 Features
 
